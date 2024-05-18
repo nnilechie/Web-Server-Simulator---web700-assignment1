@@ -8,7 +8,7 @@
 *
 ********************************************************************************/
 
-//test
+
 //STEP 2: console.log("Hello World!");
 
 //STEP 3: Creating the "Server Paths"

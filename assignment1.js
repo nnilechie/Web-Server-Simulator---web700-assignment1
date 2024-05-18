@@ -8,6 +8,12 @@
 *
 ********************************************************************************/
 
+/* Below is my script for the asssignment-web server simulation find attached in blackboard the other attachment 
+such as.
+a. Screenshot
+b. Test Video
+c. and of course this script file 
+*/
 
 //STEP 2: console.log("Hello World!");
 
